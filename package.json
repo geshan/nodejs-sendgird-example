@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/geshan/nodejs-sendgird-example#readme",
   "dependencies": {
-    "@sendgrid/mail": "^7.4.2"
+    "@sendgrid/mail": "^7.4.2",
+    "express": "^4.17.1"
   }
 }
